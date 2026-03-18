@@ -1,2 +1,2 @@
 # todo-cli
-CLI To Do app built with python.
+CLI To Do List app built with python.
